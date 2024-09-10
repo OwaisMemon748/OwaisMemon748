@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Owais Memon
+- 👋 Hi, I’m Owais Memon 
 - 👀 I’m interested in Mernstack development
 - 🌱 I’m currently learning frontend development with react.js
 - 💞️ I’m looking to collaborate on ...
